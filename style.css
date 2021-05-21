@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+.mycenter {
+    text-align: center;
+    font-size: 87px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.input-box {
+    text-align: center;
+}
+input {
+    width: 450px;
+    height: 32px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 12px;
+}
+#fill-up {
+    float: left;
+    background-color: bisque;
+    width: 50%;
+    height: 100%;
+}
+#nishant-calm {
+    float: right;
+    width: 50%;
+    height: 100%;
+    position: relative;
+}
+#google {
+    border: 0;
+    width: 220px;
+    height: 30px;
+    font-size: 15px;
+    font-family: 'Josefin Sans', sans-serif;
+    margin-left: 92px;
+    cursor: pointer;
+}
+#log {
+    background-color: darkcyan;
+    border: 0;
+    width: 220px;
+    height: 30px;
+    font-size: 15px;
+    font-family: 'Josefin Sans', sans-serif;
+    cursor: pointer;
+}
+#sign {
+    background: transparent;
+    text-decoration: underline;
+    color: rgb(138, 15, 168);
+    margin-left: 40%;
+    font-size: 14px;
+    border: 0px;
+    font-family: 'Josefin Sans', sans-serif;
+    cursor: pointer;
+}
+
